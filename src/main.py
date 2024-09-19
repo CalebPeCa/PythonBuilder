@@ -1,4 +1,4 @@
-from tanque_builder import TanqueBuilder
+from vehiculo_combate_builder import TanqueBuilder
 from vehiculo_blindado_ligero_builder import VehiculoBlindadoLigeroBuilder
 from ensambladora import Ensambladora
 

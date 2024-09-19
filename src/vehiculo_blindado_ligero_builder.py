@@ -1,4 +1,4 @@
-from builder import VehiculoCombateBuilder
+from vehiculo_combate_builder import VehiculoCombateBuilder
 
 class VehiculoBlindadoLigeroBuilder(VehiculoCombateBuilder):
     def build_armas(self):
